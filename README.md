@@ -1,5 +1,3 @@
-# search_pmc
-
 This code suite is a tool to use for improved and more efficient literature review. 
 
 The code retrieves scientific literature from an NCBI database and parses the text fields into relational tables which can be
